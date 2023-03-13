@@ -22,6 +22,14 @@
 
 
 /* stile del contenuto */
+
+h1{
+    font-size: 20px;
+}
+
+.schiarimento{
+    color: gray;
+}
     
 #blue-id-emittente {
     color: blue;
@@ -29,6 +37,7 @@
 
 .font-diminuito {
     font-size: 9px;
+    color: gray;
 }
 
 .evidenziato {

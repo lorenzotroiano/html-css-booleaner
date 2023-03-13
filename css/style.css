@@ -1,27 +1,32 @@
-
-
-
-
-
-
+* {
+    margin: 0;
+    padding: 0;
+}
 
 /* stile dell'intestazione */
 
 
 #sfondo-logo {
-    background-image: url(file:///Users/throjans/Desktop/html-css-booleaner/img/img/pattern.png);
+    background-image: url('../img/pattern.png');
     background-color: aqua;
-    width: 140%;
+    width: 100%;
     background-size: 20%;
 }
 
 #logo {
-    width: 15%;
-    height: 15%; 
+    width: 220px;
 }
 
 
 /* stile del contenuto */
+
+#contenitore {
+    padding: 10px;
+}
+
+.spostare-giu{
+    margin-top: 15px;
+}
 
 h1{
     font-size: 20px;
@@ -42,6 +47,17 @@ h1{
 
 .evidenziato {
     background-color: yellow;
+}
+
+#centrare {
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.spazio-su-giu {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 

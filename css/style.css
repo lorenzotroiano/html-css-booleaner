@@ -2,15 +2,46 @@
 
 /* stile dell'intestazione */
 
-img {
-    width: 30%;
-    height: 30%;
+
+#sfondo-logo {
+    background-image: url(file:///Users/throjans/Desktop/html-css-booleaner/img/img/pattern.png);
+    background-color: aqua;
+    width: 140%;
+    background-size: 20%;
 }
 
-#blue-id-intestatario {
+#logo {
+    width: 15%;
+    height: 15%; 
+}
+
+
+/* stile del contenuto */
+    
+#blue-id-emittente {
     color: blue;
 }
 
 .font-diminuito {
     font-size: 10px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+
+/* stile tabella */
+#stile-intestazione-tabella {
+    background-color: rgb(0, 167, 167);
+    color: antiquewhite;
+}
+
+
+.stile-corpo-tabella {
+    background-color:aqua ;
+}
+
+.stile-corpo-tabella-bianca {
+    background-color: white;
 }

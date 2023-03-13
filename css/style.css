@@ -1,5 +1,10 @@
 
 
+
+
+
+
+
 /* stile dell'intestazione */
 
 
@@ -23,7 +28,7 @@
 }
 
 .font-diminuito {
-    font-size: 10px;
+    font-size: 9px;
 }
 
 .evidenziato {
@@ -44,4 +49,20 @@
 
 .stile-corpo-tabella-bianca {
     background-color: white;
+}
+
+
+
+/* stile footer */
+
+h3 {
+   color: gray;
+}
+
+.spostamento {
+    position: relative;
+    bottom: 170px;
+    right: 300px;
+    font-size: 20px;
+    color: azure;
 }

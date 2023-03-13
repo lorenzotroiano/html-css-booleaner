@@ -1,0 +1,16 @@
+
+
+/* stile dell'intestazione */
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+#blue-id-intestatario {
+    color: blue;
+}
+
+.font-diminuito {
+    font-size: 10px;
+}
